@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaniya Higgins
 
-<!--
-**kaniyahiggins/kaniyahiggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Project Manager & GRC Professional** 
 
+💡 **Business/Data Analyst transitioning into tech governance roles**
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔍 What I’m Working On
+- 📘 Studying for **PMP Certification** (Completed Google Project Management)
+- 🔐 Building foundational skills in **GRC**: NIST, ISO 27001, and SOC 2 frameworks
+- 🧠 Practicing **Agile**, **Waterfall**, and **SDLC** methodologies
+- 🛠️ Tools: **Jira**, **ServiceNow**, **Excel**, **SQL**, **PowerPoint**
+- 📫 How to reach me: ... kaniyahiggins@outlook.com
+- 😄 Pronouns: ... SHE/HER
+- ⚡ Fun fact: ...🧩 “I manage projects the way I do puzzles — one piece at a time, with coffee and post-its.”
 -->
